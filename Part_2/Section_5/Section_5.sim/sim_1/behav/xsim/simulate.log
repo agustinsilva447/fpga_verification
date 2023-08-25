@@ -1,0 +1,103 @@
+Time resolution is 1 ps
+[DRV] : RESET DONE
+[GEN] : WR : 1 WDATA  : 1 ADDR : 4 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :1 waddr : 4 rdata : x
+[MON] : DATA WRITE -> wdata :1 waddr : 4
+[SCO] : WR : 1 WDATA  : 1 ADDR : 4 RDATA : 0 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 4 DATA : 1
+[GEN] : WR : 1 WDATA  : 203 ADDR : 3 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :203 waddr : 3 rdata : x
+[MON] : DATA WRITE -> wdata :203 waddr : 3
+[SCO] : WR : 1 WDATA  : 203 ADDR : 3 RDATA : 0 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 3 DATA : 203
+[GEN] : WR : 0 WDATA  : 229 ADDR : 4 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :229 waddr : 4 rdata : 1
+[MON] : DATA READ -> waddr : 4 rdata : 1
+[SCO] : WR : 0 WDATA  : 229 ADDR : 4 RDATA : 1 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 0 WDATA  : 141 ADDR : 3 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :141 waddr : 3 rdata : 203
+[MON] : DATA READ -> waddr : 3 rdata : 203
+[SCO] : WR : 0 WDATA  : 141 ADDR : 3 RDATA : 203 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 1 WDATA  : 73 ADDR : 1 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :73 waddr : 1 rdata : 203
+[MON] : DATA WRITE -> wdata :73 waddr : 1
+[SCO] : WR : 1 WDATA  : 73 ADDR : 1 RDATA : 203 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 1 DATA : 73
+[GEN] : WR : 0 WDATA  : 212 ADDR : 2 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :212 waddr : 2 rdata : 145
+[MON] : DATA READ -> waddr : 2 rdata : 145
+[SCO] : WR : 0 WDATA  : 212 ADDR : 2 RDATA : 145 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 0 WDATA  : 110 ADDR : 3 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :110 waddr : 3 rdata : 203
+[MON] : DATA READ -> waddr : 3 rdata : 203
+[SCO] : WR : 0 WDATA  : 110 ADDR : 3 RDATA : 203 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 1 WDATA  : 24 ADDR : 3 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :24 waddr : 3 rdata : 203
+[MON] : DATA WRITE -> wdata :24 waddr : 3
+[SCO] : WR : 1 WDATA  : 24 ADDR : 3 RDATA : 203 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 3 DATA : 24
+[GEN] : WR : 1 WDATA  : 156 ADDR : 2 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :156 waddr : 2 rdata : 203
+[MON] : DATA WRITE -> wdata :156 waddr : 2
+[SCO] : WR : 1 WDATA  : 156 ADDR : 2 RDATA : 203 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 2 DATA : 156
+[GEN] : WR : 1 WDATA  : 224 ADDR : 2 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :224 waddr : 2 rdata : 203
+[MON] : DATA WRITE -> wdata :224 waddr : 2
+[SCO] : WR : 1 WDATA  : 224 ADDR : 2 RDATA : 203 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 2 DATA : 224
+[GEN] : WR : 0 WDATA  : 113 ADDR : 2 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :113 waddr : 2 rdata : 224
+[MON] : DATA READ -> waddr : 2 rdata : 224
+[SCO] : WR : 0 WDATA  : 113 ADDR : 2 RDATA : 224 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 1 WDATA  : 152 ADDR : 2 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :152 waddr : 2 rdata : 224
+[MON] : DATA WRITE -> wdata :152 waddr : 2
+[SCO] : WR : 1 WDATA  : 152 ADDR : 2 RDATA : 224 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 2 DATA : 152
+[GEN] : WR : 0 WDATA  : 41 ADDR : 3 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :41 waddr : 3 rdata : 24
+[MON] : DATA READ -> waddr : 3 rdata : 24
+[SCO] : WR : 0 WDATA  : 41 ADDR : 3 RDATA : 24 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 0 WDATA  : 148 ADDR : 3 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :148 waddr : 3 rdata : 24
+[MON] : DATA READ -> waddr : 3 rdata : 24
+[SCO] : WR : 0 WDATA  : 148 ADDR : 3 RDATA : 24 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 1 WDATA  : 239 ADDR : 4 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :239 waddr : 4 rdata : 24
+[MON] : DATA WRITE -> wdata :239 waddr : 4
+[SCO] : WR : 1 WDATA  : 239 ADDR : 4 RDATA : 24 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 4 DATA : 239
+[GEN] : WR : 0 WDATA  : 216 ADDR : 4 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :216 waddr : 4 rdata : 239
+[MON] : DATA READ -> waddr : 4 rdata : 239
+[SCO] : WR : 0 WDATA  : 216 ADDR : 4 RDATA : 239 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 0 WDATA  : 45 ADDR : 4 RDATA : 0 DONE : 0 
+[DRV] : wr:0 wdata :45 waddr : 4 rdata : 239
+[MON] : DATA READ -> waddr : 4 rdata : 239
+[SCO] : WR : 0 WDATA  : 45 ADDR : 4 RDATA : 239 DONE : 0 
+[SCO] :DATA READ -> Data Matched
+[GEN] : WR : 1 WDATA  : 97 ADDR : 4 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :97 waddr : 4 rdata : 239
+[MON] : DATA WRITE -> wdata :97 waddr : 4
+[SCO] : WR : 1 WDATA  : 97 ADDR : 4 RDATA : 239 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 4 DATA : 97
+[GEN] : WR : 1 WDATA  : 10 ADDR : 1 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :10 waddr : 1 rdata : 239
+[MON] : DATA WRITE -> wdata :10 waddr : 1
+[SCO] : WR : 1 WDATA  : 10 ADDR : 1 RDATA : 239 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 1 DATA : 10
+[GEN] : WR : 1 WDATA  : 83 ADDR : 2 RDATA : 0 DONE : 0 
+[DRV] : wr:1 wdata :83 waddr : 2 rdata : 239
+[MON] : DATA WRITE -> wdata :83 waddr : 2
+[SCO] : WR : 1 WDATA  : 83 ADDR : 2 RDATA : 239 DONE : 0 
+[SCO]: DATA STORED -> ADDR : 2 DATA : 83
+$finish called at time : 116925 ns : File "D:/Vivado/Verification/Part_2/Section_5/Section_5.srcs/sim_1/new/tb.sv" Line 234

@@ -1,0 +1,53 @@
+Time resolution is 1 ps
+[DRV] : RESET DONE
+[GEN] : oper : write send : 0 TX_DATA : 00000001 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data Sent : 1
+[MON] : DATA SEND on UART TX 1
+[SCO] : DRV : 1 MON : 1
+DATA MATCHED
+[GEN] : oper : read send : 0 TX_DATA : 11001111 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data RCVD : 78
+[MON] : DATA RCVD RX 78
+[SCO] : DRV : 78 MON : 78
+DATA MATCHED
+[GEN] : oper : read send : 0 TX_DATA : 11001011 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data RCVD : 126
+[MON] : DATA RCVD RX 126
+[SCO] : DRV : 126 MON : 126
+DATA MATCHED
+[GEN] : oper : write send : 0 TX_DATA : 00001110 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data Sent : 14
+[MON] : DATA SEND on UART TX 14
+[SCO] : DRV : 14 MON : 14
+DATA MATCHED
+[GEN] : oper : write send : 0 TX_DATA : 11100101 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data Sent : 229
+[MON] : DATA SEND on UART TX 229
+[SCO] : DRV : 229 MON : 229
+DATA MATCHED
+[GEN] : oper : read send : 0 TX_DATA : 00001111 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data RCVD : 240
+[MON] : DATA RCVD RX 240
+[SCO] : DRV : 240 MON : 240
+DATA MATCHED
+[GEN] : oper : read send : 0 TX_DATA : 10001101 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data RCVD : 42
+[MON] : DATA RCVD RX 42
+[SCO] : DRV : 42 MON : 42
+DATA MATCHED
+[GEN] : oper : write send : 0 TX_DATA : 11011010 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data Sent : 218
+[MON] : DATA SEND on UART TX 218
+[SCO] : DRV : 218 MON : 218
+DATA MATCHED
+[GEN] : oper : write send : 0 TX_DATA : 01001001 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data Sent : 73
+[MON] : DATA SEND on UART TX 73
+[SCO] : DRV : 73 MON : 73
+DATA MATCHED
+[GEN] : oper : read send : 0 TX_DATA : 11000000 RX_IN : 0 TX_OUT : 0 RX_OUT : 00000000 DONE_TX : 0 DONE_RX : 0
+[DRV]: Data RCVD : 190
+[MON] : DATA RCVD RX 190
+[SCO] : DRV : 190 MON : 190
+DATA MATCHED
+$finish called at time : 266050 ns : File "D:/Vivado/Verification/Part_2/Section_4/Section_4.srcs/sim_1/new/tb.sv" Line 253

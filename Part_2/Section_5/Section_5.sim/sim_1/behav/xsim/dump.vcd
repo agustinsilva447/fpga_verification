@@ -1,0 +1,31 @@
+$date
+   Tue Aug 22 18:44:54 2023
+$end
+$version
+  2022.1
+$end
+$timescale
+  1ps
+$end
+$scope module tb $end
+$var reg 32 ! gen $end
+$var reg 32 " drv $end
+$var reg 32 # mon $end
+$var reg 32 $ sco $end
+$var event 32 % nextgd $end
+$var event 32 & nextgs $end
+$var reg 32 ' mbxgd $end
+$var reg 32 ( mbxms $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b100001101111110000000000111000 !
+b100001110000000000000000111000 "
+b100001101111100000000100011000 #
+b100001110000010000000000111000 $
+bx %
+bx &
+b100001101111100000000000111000 '
+b100001101111100000000010101000 (
+$end
