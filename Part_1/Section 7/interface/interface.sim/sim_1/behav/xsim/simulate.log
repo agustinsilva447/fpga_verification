@@ -1,0 +1,107 @@
+Time resolution is 1 ps
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 0 	 b: 0 	 mul : 0
+[SCO] : DATA RCVD FROM MONITOR
+a : 0 	 b: 0 	 mul : 0
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 7 	 b: 13 	 mul : 91
+[SCO] : DATA RCVD FROM MONITOR
+a : 7 	 b: 13 	 mul : 91
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 1 	 b: 15 	 mul : 15
+[SCO] : DATA RCVD FROM MONITOR
+a : 1 	 b: 15 	 mul : 15
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 9 	 b: 4 	 mul : 36
+[SCO] : DATA RCVD FROM MONITOR
+a : 9 	 b: 4 	 mul : 36
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 11 	 b: 7 	 mul : 77
+[SCO] : DATA RCVD FROM MONITOR
+a : 11 	 b: 7 	 mul : 77
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 8 	 b: 10 	 mul : 80
+[SCO] : DATA RCVD FROM MONITOR
+a : 8 	 b: 10 	 mul : 80
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 6 	 b: 1 	 mul : 6
+[SCO] : DATA RCVD FROM MONITOR
+a : 6 	 b: 1 	 mul : 6
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 6 	 b: 8 	 mul : 48
+[SCO] : DATA RCVD FROM MONITOR
+a : 6 	 b: 8 	 mul : 48
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 14 	 b: 12 	 mul : 168
+[SCO] : DATA RCVD FROM MONITOR
+a : 14 	 b: 12 	 mul : 168
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 2 	 b: 11 	 mul : 22
+[SCO] : DATA RCVD FROM MONITOR
+a : 2 	 b: 11 	 mul : 22
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 12 	 b: 6 	 mul : 72
+[SCO] : DATA RCVD FROM MONITOR
+a : 12 	 b: 6 	 mul : 72
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 3 	 b: 10 	 mul : 30
+[SCO] : DATA RCVD FROM MONITOR
+a : 3 	 b: 10 	 mul : 30
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 2 	 b: 11 	 mul : 22
+[SCO] : DATA RCVD FROM MONITOR
+a : 2 	 b: 11 	 mul : 22
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 13 	 b: 5 	 mul : 65
+[SCO] : DATA RCVD FROM MONITOR
+a : 13 	 b: 5 	 mul : 65
+[SCO] : Mul Result Matched
+-------------------------
+-------------------------
+[MON] : DATA SENT TO SCOREBOARD
+a : 1 	 b: 14 	 mul : 14
+[SCO] : DATA RCVD FROM MONITOR
+a : 1 	 b: 14 	 mul : 14
+[SCO] : Mul Result Matched
+-------------------------
+$finish called at time : 300 ns : File "/home/agustin/Escritorio/Verification/Part 1/Section 7/interface/interface.srcs/sim_1/new/tb11.sv" Line 108

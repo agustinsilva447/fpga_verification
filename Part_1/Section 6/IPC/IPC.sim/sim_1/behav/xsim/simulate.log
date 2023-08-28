@@ -1,0 +1,22 @@
+Time resolution is 1 ps
+[GEN] : DATA SENT : a : 9 and b : 73
+[DRV] : DATA RCVD : a : 9 and b : 73
+[GEN] : DATA SENT : a : 227 and b : 102
+[DRV] : DATA RCVD : a : 227 and b : 102
+[GEN] : DATA SENT : a : 122 and b : 34
+[DRV] : DATA RCVD : a : 122 and b : 34
+[GEN] : DATA SENT : a : 101 and b : 233
+[DRV] : DATA RCVD : a : 101 and b : 233
+[GEN] : DATA SENT : a : 96 and b : 40
+[DRV] : DATA RCVD : a : 96 and b : 40
+[GEN] : DATA SENT : a : 248 and b : 56
+[DRV] : DATA RCVD : a : 248 and b : 56
+[GEN] : DATA SENT : a : 1 and b : 95
+[DRV] : DATA RCVD : a : 1 and b : 95
+[GEN] : DATA SENT : a : 245 and b : 44
+[DRV] : DATA RCVD : a : 245 and b : 44
+[GEN] : DATA SENT : a : 198 and b : 86
+[DRV] : DATA RCVD : a : 198 and b : 86
+[GEN] : DATA SENT : a : 168 and b : 194
+[DRV] : DATA RCVD : a : 168 and b : 194
+$finish called at time : 250 ns : File "/home/agustin/Escritorio/Verification/Part 1/Section 6/IPC/IPC.srcs/sim_1/new/tb12.sv" Line 63

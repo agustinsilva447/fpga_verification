@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Value of arr1 : '{-29,11,-44,-10,-59,-63,67,-88,-51,23,-97,-110,-40,-30,58,-91,-7,-39,55,-47}
+Value of arr2 : '{-47,55,-39,-7,-91,58,-30,-40,-110,-97,23,-51,-88,67,-63,-59,-10,-44,11,-29}
+$finish called at time : 200 ns : File "/home/agustin/Escritorio/Verification/Part 1/Section 2/datatypes/datatypes.srcs/sim_1/new/tb6.sv" Line 19

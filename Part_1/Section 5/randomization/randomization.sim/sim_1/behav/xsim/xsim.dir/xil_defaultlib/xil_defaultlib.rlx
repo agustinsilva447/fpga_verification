@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 19 2021
+02:56:52
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb.sv,1689953394,systemVerilog,,,,$unit_tb_sv;tb,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb10.sv,1690126618,systemVerilog,,,,$unit_tb10_sv;tb10,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb11.sv,1690127389,systemVerilog,,,,$unit_tb11_sv;tb11,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb12.sv,1690130113,systemVerilog,,,,$unit_tb12_sv;tb12,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb15.sv,1690131138,systemVerilog,,,,$unit_tb15_sv;tb15,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb16.sv,1690132496,systemVerilog,,,,$unit_tb16_sv;tb16,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb2.sv,1689956111,systemVerilog,,,,$unit_tb2_sv;tb2,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb3.sv,1689959107,systemVerilog,,,,$unit_tb3_sv;tb3,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb4.sv,1689960492,systemVerilog,,,,$unit_tb4_sv;tb4,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb5.sv,1689964107,systemVerilog,,,,$unit_tb5_sv;tb5,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb6.sv,1689964588,systemVerilog,,,,$unit_tb6_sv;tb6,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb7.sv,1689964829,systemVerilog,,,,$unit_tb7_sv;tb7,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb8.sv,1690121815,systemVerilog,,,,$unit_tb8_sv;tb8,,uvm,,,,,,
+/home/agustin/Escritorio/Verification/Part 1/Section 5/randomization/randomization.srcs/sim_1/new/tb9.sv,1690124703,systemVerilog,,,,$unit_tb9_sv;tb9,,uvm,,,,,,

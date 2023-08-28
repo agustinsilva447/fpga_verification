@@ -1,0 +1,34 @@
+$date
+   Mon Jul  3 14:05:07 2023
+$end
+$version
+  2021.2
+$end
+$timescale
+  1ps
+$end
+$scope module tb7 $end
+$var reg 1 ! clk16 $end
+$var reg 1 " clk8 $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+$end
+#31250
+1!
+#62500
+0!
+1"
+#93750
+1!
+#125000
+0!
+0"
+#156250
+1!
+#187500
+0!
+1"
